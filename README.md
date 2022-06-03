@@ -1,4 +1,4 @@
-# My-Clues / My-Rules
+# My-Clues/-Rules
 Take control. Lose less time. Get less confused. 
  - my filter      (uBlock Origin,...,...)
  - my view        (Stylish,...,...)
